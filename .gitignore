@@ -1,2 +1,27 @@
 dogs breeds/train.ipynb
 us-patent-phrase-to-phrase-matching/getting-started-with-nlp-for-absolute-beginners.ipynb
+us-patent-phrase-to-phrase-matching/data/sample_submission.csv
+us-patent-phrase-to-phrase-matching/data/test.csv
+us-patent-phrase-to-phrase-matching/data/train.csv
+us-patent-phrase-to-phrase-matching/models/model/config.json
+us-patent-phrase-to-phrase-matching/models/model/model.safetensors
+us-patent-phrase-to-phrase-matching/models/tokz/added_tokens.json
+us-patent-phrase-to-phrase-matching/models/tokz/special_tokens_map.json
+us-patent-phrase-to-phrase-matching/models/tokz/spm.model
+us-patent-phrase-to-phrase-matching/models/tokz/tokenizer_config.json
+us-patent-phrase-to-phrase-matching/models/tokz/tokenizer.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/added_tokens.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/config.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/model.safetensors
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/optimizer.pt
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/rng_state.pth
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/scheduler.pt
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/special_tokens_map.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/spm.model
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/tokenizer_config.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/tokenizer.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/trainer_state.json
+us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/training_args.bin
+us-patent-phrase-to-phrase-matching/submission/submission_from_loaded.csv
+us-patent-phrase-to-phrase-matching/submission/submission_from_trained.csv
+us-patent-phrase-to-phrase-matching/submission/submission.csv
