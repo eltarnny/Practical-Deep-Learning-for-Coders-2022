@@ -25,3 +25,4 @@ us-patent-phrase-to-phrase-matching/outputs/checkpoint-500/training_args.bin
 us-patent-phrase-to-phrase-matching/submission/submission_from_loaded.csv
 us-patent-phrase-to-phrase-matching/submission/submission_from_trained.csv
 us-patent-phrase-to-phrase-matching/submission/submission.csv
+Cats and Dogs/dataset
