@@ -1,8 +1,8 @@
-This is a project from Jeremy Howard's course Lesson 4: Practical Deep Learning for Coders 2022
-You can view the lecture here: https://www.youtube.com/watch?v=toUgBQv1BT8
+This is a project from Jeremy Howard's course Lesson 4: Practical Deep Learning for Coders 2022  
+You can view the lecture here: https://www.youtube.com/watch?v=toUgBQv1BT8  
 I have cleaned the code from the original notebook and have also added a way to save and load the fine-tuned model.
 
-You will have the get the data from the contest in Kaggle.
+You will have the get the data from the contest in Kaggle.  
 I cannot commit the fine-tuned model and tokenizer due to GitHub file size restrictions
 
 Jeremy's Intro:
