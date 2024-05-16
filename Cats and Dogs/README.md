@@ -1,4 +1,5 @@
-This is a project from the Udemy course Machine Learning AZ - Python - R showcasing Convolutional Neural Networks (CNNs) using TensorFlow
+This is a project from the Udemy course Machine Learning AZ - Python - R  
+showcasing Convolutional Neural Networks (CNNs) using TensorFlow
 
 With cnn_train.py you can train and save the model.  
 Unfortunately, I cannot upload the datasets but there are a lot of Cats and Dogs datasets online.
